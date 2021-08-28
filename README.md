@@ -16,78 +16,23 @@ Android Studio, Kotlin, Firebase, XML, CircleCi
 
 ### All Users
 
-| Login Page  | Registration Page |
+| Login Page | Registration Page |
 | ------------- | ------------- |
 | <img src="https://user-images.githubusercontent.com/55000657/131206078-c168671f-4417-4a78-b7a4-92bd238b60f1.jpg" width="300"> | <img src="https://user-images.githubusercontent.com/55000657/131206085-40520978-d5fc-4895-8d10-c8385f4fe7a5.jpg" width="300"> |
 
-<!---
-### Login Page
-[comment]: ![Screenshot_20210828-001250_seg2505-projet-a19-20](https://user-images.githubusercontent.com/55000657/131206078-c168671f-4417-4a78-b7a4-92bd238b60f1.jpg)
-<img src="https://user-images.githubusercontent.com/55000657/131206078-c168671f-4417-4a78-b7a4-92bd238b60f1.jpg" width="300">
-[comment]: <img src="" width="300">
-<br>
-
-### Registration Page
-[comment]: ![Screenshot_20210828-001311_seg2505-projet-a19-20](https://user-images.githubusercontent.com/55000657/131206085-40520978-d5fc-4895-8d10-c8385f4fe7a5.jpg)
-<img src="https://user-images.githubusercontent.com/55000657/131206085-40520978-d5fc-4895-8d10-c8385f4fe7a5.jpg" width="300">
-<br>
---->
-
 ### Administrator Account
 
-| Welcome Page  | Account List Page | Delete Account Dialog | Service List Page |
+| Welcome Page | Account List Page | Delete Account Dialog | Service List Page |
 | ------------- | ------------- | ------------- | ------------- |
 | <img src="https://user-images.githubusercontent.com/55000657/131206214-13ef053a-038f-42c6-930d-4208608c294c.jpg" width="300"> | <img src="https://user-images.githubusercontent.com/55000657/131206319-19ebdfa2-9f73-4a84-943f-8b2a329815f4.jpg" width="300"> | <img src="https://user-images.githubusercontent.com/55000657/131206322-6480ca84-daf5-4ba7-8e0d-b43acf15e5d1.jpg" width="300"> | <img src="https://user-images.githubusercontent.com/55000657/131206426-7f4dee02-6b37-47dc-90d4-fe4aa644db85.jpg" width="300"> |
 
-<!---
-#### Admin: Welcome Page
-[comment]: ![Screenshot_20210828-001345_seg2505-projet-a19-20](https://user-images.githubusercontent.com/55000657/131206214-13ef053a-038f-42c6-930d-4208608c294c.jpg)
-<img src="https://user-images.githubusercontent.com/55000657/131206214-13ef053a-038f-42c6-930d-4208608c294c.jpg" width="300">
-
-<br>
-
-#### Admin: Account List Page
-[comment]: ![Screenshot_20210828-001442_seg2505-projet-a19-20](https://user-images.githubusercontent.com/55000657/131206319-19ebdfa2-9f73-4a84-943f-8b2a329815f4.jpg)
-<img src="https://user-images.githubusercontent.com/55000657/131206319-19ebdfa2-9f73-4a84-943f-8b2a329815f4.jpg" width="300">
-
-<br>
-
-#### Admin: Delete Account Dialog
-[comment]: ![Screenshot_20210828-001510_seg2505-projet-a19-20](https://user-images.githubusercontent.com/55000657/131206322-6480ca84-daf5-4ba7-8e0d-b43acf15e5d1.jpg)
-<img src="https://user-images.githubusercontent.com/55000657/131206322-6480ca84-daf5-4ba7-8e0d-b43acf15e5d1.jpg" width="300">
-
-<br>
-
-#### Admin: Service List Page
-[comment]: ![Screenshot_20210828-001519_seg2505-projet-a19-20](https://user-images.githubusercontent.com/55000657/131206426-7f4dee02-6b37-47dc-90d4-fe4aa644db85.jpg)
-<img src="https://user-images.githubusercontent.com/55000657/131206426-7f4dee02-6b37-47dc-90d4-fe4aa644db85.jpg" width="300">
-
-<br>
-
-#### Admin: Add Service Dialog
-
---->
-
 ### Patient Account
 
+| Welcome Page | Clinic Search Page | My Bookings Page | Clinic Rating Dialog |
+| ------------- | ------------- | ------------- | ------------- |
+| <img src="https://user-images.githubusercontent.com/55000657/131206651-8f1eff4e-f87e-431b-b233-15c003761711.jpg" width="300"> | <img src="https://user-images.githubusercontent.com/55000657/131206667-a42f543d-85c3-4999-a08e-3f9eb9bcb890.jpg" width="300"> | <img src="https://user-images.githubusercontent.com/55000657/131206669-d467a80b-1de4-407a-8441-ad973fa62c1c.jpg" width="300"> | <img src="https://user-images.githubusercontent.com/55000657/131206670-677efaf4-271d-44ff-ab31-773ddcd712a0.jpg" width="300"> |
 
+### Clinic Employee Account
 
-#### Patient: Welcome Page
-
-
-<br>
-
-#### Patient: Clinic Search Page
-
-
-<br>
-
-#### Patient: My Bookings Page
-
-
-<br>
-
-#### Patient: Clinic Rating Dialog
-![image-010](https://user-images.githubusercontent.com/55000657/131205323-5c4a4af4-a54f-42d7-99d9-9d1578986da8.jpg)
 
 <br>
