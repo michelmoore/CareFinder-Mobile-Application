@@ -1,7 +1,7 @@
 # CareFinder Mobile Application
 
 ### Context
-This repository contains my final project submission for SEG2505 Introduction au Génie Logiciel, a second year software engineering course at the University of Ottawa.
+This repository contains our final project submission for SEG2505 Introduction au Génie Logiciel, a second year software engineering course at the University of Ottawa.
 
 ### Description
 CareFinder is a mobile application that helps users locate medical professionals and make appointments with nearby clinics. The app is designed for Android devices and can be used by clinic employees who want to find patients for their services. Patients can also search for clinics, view nearby clinic wait times, and book appointments.
