@@ -9,54 +9,81 @@ CareFinder is a mobile application that helps users locate medical professionals
 ### Technologies
 Android Studio, Kotlin, Firebase, XML, CircleCi
 
-## UML Diagram
+### UML Diagram
 ![image-000](https://user-images.githubusercontent.com/55000657/131204838-feb30d5d-86db-4444-b3aa-dbc5c5ca2497.jpg)
 
 ## User Flow
 
-#### Login Page
-![image-001](https://user-images.githubusercontent.com/55000657/131204883-53ccc891-cf25-49bb-ae8d-6b2cec805e8d.jpg)
+### All Users
 
+| Login Page  | Registration Page |
+| ------------- | ------------- |
+| <img src="https://user-images.githubusercontent.com/55000657/131206078-c168671f-4417-4a78-b7a4-92bd238b60f1.jpg" width="300"> | <img src="https://user-images.githubusercontent.com/55000657/131206085-40520978-d5fc-4895-8d10-c8385f4fe7a5.jpg" width="300"> |
+
+<!---
+### Login Page
+[comment]: ![Screenshot_20210828-001250_seg2505-projet-a19-20](https://user-images.githubusercontent.com/55000657/131206078-c168671f-4417-4a78-b7a4-92bd238b60f1.jpg)
+<img src="https://user-images.githubusercontent.com/55000657/131206078-c168671f-4417-4a78-b7a4-92bd238b60f1.jpg" width="300">
+[comment]: <img src="" width="300">
 <br>
 
-#### Registration Page
-![image-002](https://user-images.githubusercontent.com/55000657/131204921-37cc07eb-7481-4afe-bda1-fb516de07b3c.jpg)
-
+### Registration Page
+[comment]: ![Screenshot_20210828-001311_seg2505-projet-a19-20](https://user-images.githubusercontent.com/55000657/131206085-40520978-d5fc-4895-8d10-c8385f4fe7a5.jpg)
+<img src="https://user-images.githubusercontent.com/55000657/131206085-40520978-d5fc-4895-8d10-c8385f4fe7a5.jpg" width="300">
 <br>
+--->
 
+### Administrator Account
+
+| Welcome Page  | Account List Page | Delete Account Dialog | Service List Page |
+| ------------- | ------------- | ------------- | ------------- |
+| <img src="https://user-images.githubusercontent.com/55000657/131206214-13ef053a-038f-42c6-930d-4208608c294c.jpg" width="300"> | <img src="https://user-images.githubusercontent.com/55000657/131206319-19ebdfa2-9f73-4a84-943f-8b2a329815f4.jpg" width="300"> | <img src="https://user-images.githubusercontent.com/55000657/131206322-6480ca84-daf5-4ba7-8e0d-b43acf15e5d1.jpg" width="300"> | <img src="https://user-images.githubusercontent.com/55000657/131206426-7f4dee02-6b37-47dc-90d4-fe4aa644db85.jpg" width="300"> |
+
+<!---
 #### Admin: Welcome Page
-![image-003](https://user-images.githubusercontent.com/55000657/131204935-533a386d-d9b4-469a-98d4-c2b4733d3dc2.jpg)
+[comment]: ![Screenshot_20210828-001345_seg2505-projet-a19-20](https://user-images.githubusercontent.com/55000657/131206214-13ef053a-038f-42c6-930d-4208608c294c.jpg)
+<img src="https://user-images.githubusercontent.com/55000657/131206214-13ef053a-038f-42c6-930d-4208608c294c.jpg" width="300">
 
 <br>
 
 #### Admin: Account List Page
-![image-004](https://user-images.githubusercontent.com/55000657/131204949-736ca298-c7a2-42a3-8e41-c6997da38b01.jpg)
-<br>Administrator can user modify accounts.
+[comment]: ![Screenshot_20210828-001442_seg2505-projet-a19-20](https://user-images.githubusercontent.com/55000657/131206319-19ebdfa2-9f73-4a84-943f-8b2a329815f4.jpg)
+<img src="https://user-images.githubusercontent.com/55000657/131206319-19ebdfa2-9f73-4a84-943f-8b2a329815f4.jpg" width="300">
+
+<br>
+
+#### Admin: Delete Account Dialog
+[comment]: ![Screenshot_20210828-001510_seg2505-projet-a19-20](https://user-images.githubusercontent.com/55000657/131206322-6480ca84-daf5-4ba7-8e0d-b43acf15e5d1.jpg)
+<img src="https://user-images.githubusercontent.com/55000657/131206322-6480ca84-daf5-4ba7-8e0d-b43acf15e5d1.jpg" width="300">
 
 <br>
 
 #### Admin: Service List Page
-![image-005](https://user-images.githubusercontent.com/55000657/131205156-c13e9fe8-8cd0-4200-afe1-f8d50cf275aa.jpg)
+[comment]: ![Screenshot_20210828-001519_seg2505-projet-a19-20](https://user-images.githubusercontent.com/55000657/131206426-7f4dee02-6b37-47dc-90d4-fe4aa644db85.jpg)
+<img src="https://user-images.githubusercontent.com/55000657/131206426-7f4dee02-6b37-47dc-90d4-fe4aa644db85.jpg" width="300">
 
 <br>
 
 #### Admin: Add Service Dialog
-![image-006](https://user-images.githubusercontent.com/55000657/131205173-3981a2ab-46c7-4b67-8d7b-5b234ae08967.jpg)
 
-<br>
+--->
+
+### Patient Account
+
+
 
 #### Patient: Welcome Page
-![image-007](https://user-images.githubusercontent.com/55000657/131205222-8a2b4748-4520-4525-bfc4-84c5e8bb55bf.jpg)
+
 
 <br>
 
 #### Patient: Clinic Search Page
-![image-008](https://user-images.githubusercontent.com/55000657/131205227-dc72c8cc-02f8-4c3e-8280-b4eb7fcf538c.jpg)
+
 
 <br>
 
 #### Patient: My Bookings Page
-![image-009](https://user-images.githubusercontent.com/55000657/131205314-365715ac-10a7-47db-904d-f7a794f95ab3.jpg)
+
 
 <br>
 
