@@ -1,5 +1,8 @@
 # CareFinder Mobile Application
 
+### Authors
+Michel Moore, Tristan Pender, Jean Pierre Sfeir, Rafael Villacorta Martinez & Mohamed Labzagui
+
 ### Context
 This repository contains our final project submission for SEG2505 Introduction au Génie Logiciel, a second year software engineering course at the University of Ottawa.
 
